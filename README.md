@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="./assets/logo.png" width="140" />
+  <img src="assets/logo.png" width="200" />
+  <br>
+  <strong>Ambient real-world social discovery.</strong>
 </p>
-
-<h1 align="center">Kami</h1>
-
-<p align="center">
-Ambient real-world social discovery.
-</p>
-
 Kami is an ambient social discovery app built around real-world proximity.
 
 Instead of manually searching for people, swapping usernames, or scanning QR codes, Kami quietly shows nearby Instagram-connected users when they are physically nearby right now.
