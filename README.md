@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="./assets/logo.png" width="140" />
+</p>
+
+<h1 align="center">Kami</h1>
+
+<p align="center">
+Ambient real-world social discovery.
+</p>
+
 # Kami
 
 Kami is an ambient social discovery app built around real-world proximity.
